@@ -20,7 +20,7 @@ namespace FormFlowBot.Controllers
                 activity.MembersAdded.Any(m => m.Id == activity.Recipient.Id))
             {
                 var connector = new ConnectorClient(new Uri(activity.ServiceUrl));
-                var reply = activity.CreateReply($"So you're having a problem with the parking machine! :D");
+                var reply = activity.CreateReply($"So you're having a problem with a parking machine.  Let's see how we can help you with that.");
                 await connector.Conversations.ReplyToActivityAsync(reply);
             }
             else if (activity.Type == ActivityTypes.Message)

@@ -1,0 +1,41 @@
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Bot Application1.dll.config
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Bot Application1.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Bot Application1.pdb
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Autofac.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Chronic.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.Bot.Builder.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.Bot.Connector.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Newtonsoft.Json.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.Net.Http.Formatting.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.Web.Http.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.Web.Http.WebHost.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Autofac.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.Bot.Builder.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.Bot.Connector.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\Newtonsoft.Json.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.Net.Http.Formatting.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.Web.Http.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\System.Web.Http.WebHost.xml
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Release\FormFlowBot.csprojResolveAssemblyReference.cache
+C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Release\FormFlowBot.csproj.CoreCompileInputs.cache
+C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Release\Bot Application1.dll
+C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Release\Bot Application1.pdb

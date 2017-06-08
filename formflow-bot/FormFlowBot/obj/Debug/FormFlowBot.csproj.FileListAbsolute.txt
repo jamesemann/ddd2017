@@ -116,3 +116,4 @@ C:\projects\ddd2017\formflow-bot\FormFlowBot\bin\zh-hans\Microsoft.Bot.Builder.r
 C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Debug\FormFlowBot.csprojResolveAssemblyReference.cache
 C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Debug\Bot Application1.dll
 C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Debug\Bot Application1.pdb
+C:\projects\ddd2017\formflow-bot\FormFlowBot\obj\Debug\FormFlowBot.csproj.CoreCompileInputs.cache
