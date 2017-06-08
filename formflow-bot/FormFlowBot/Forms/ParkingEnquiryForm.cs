@@ -22,9 +22,10 @@ namespace FormFlowBot.Forms
                 .Confirm(
                     async state =>
                     {
+                        //return new PromptAttribute(new TemplateAttribute(TemplateUsage.Confirmation, "Do you really want to continue?"));
                         return
                             new PromptAttribute(
-                                $"![img](https://maps.google.com/maps/api/staticmap?center={state.MachineIdOrAddressPart}&zoom=15&size=400x400&maptype=roadmap&markers=color:ORANGE|label:A|{state.MachineIdOrAddressPart}&sensor=false) \r\n\r\n\r\nWe think we have found the parking meter.  Is it here?");
+                                $"![img](https://maps.google.com/maps/api/staticmap?center={System.Web.HttpUtility.UrlEncode(state.MachineIdOrAddressPart)}&zoom=15&size=400x400&maptype=roadmap&markers=color:ORANGE|label:A|{System.Web.HttpUtility.UrlEncode(state.MachineIdOrAddressPart)}&sensor=false)\n\n\n We think we have found the parking meter.  Is it here?");
                     })
                 .Field(nameof(Problem), state => { return state.IsFault == ReportType.ProblemWithMachine; })
                 .OnCompletion(async (context, state) =>
